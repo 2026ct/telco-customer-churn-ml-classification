@@ -1,0 +1,8 @@
+Telco Customer Churn - Trained Models
+=====================================
+
+Logistic Regression: logistic_regression.joblib
+Decision Tree: decision_tree.joblib
+K-Nearest Neighbors: knn.joblib
+Gaussian Naive Bayes: gaussian_naive_bayes.joblib
+Random Forest: random_forest.joblib
